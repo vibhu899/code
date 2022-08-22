@@ -1,0 +1,7 @@
+,Model,Score,File_name
+0,Linear_Regression,2240.509840687619,finalized_linear.sav
+1,KNN,2630.1952848200426,finalized_model_knn.sav
+2,Decision_tree,2336.103194457695,finalized_model_decision_tree.sav
+3,Random_Forest,1897.9040233303715,finalized_model_random_forest.sav
+4,XGB,1890.3004602743213,finalized_model_XGB.sav
+5,XGBF,2355.207637596242,finalized_model_random_forest.sav
